@@ -29,30 +29,38 @@
 
 eg: 
 
-`h1{color:blue;}`
+```h1{color:blue;}```
 
 ## CSS Selector
 
 1. Element Selector (tagname)
-- Example: `h1{color:blue}`
+- Example: 
+```h1{color:blue}```
 
 2. ID Selector (#)
-- Example: `#nav{color:green}`
+- Example: 
+```#nav{color:green}```
 
 3. Class Selector (.)
-- Example: `.nav{color:violet}`
+- Example: 
+```.nav{color:violet}```
 
 4. Universal Selector (*)
-- Exmple: `*{margin: 0px;}`
+- Exmple: 
+```*{margin: 0px;}```
 
 5. Descendant Selector
-- Example: `ul li{font-family:roboto;}`
+- Example: 
+```ul li{font-family:roboto;}```
 
 6. Child Selector
-- Example: `div > p {color:red;}`
+- Example: 
+```div > p {color:red;}```
 
 7. Attribute Selector
-- Example:`input[type = "text"] { border: 1px solid blue;}`
+- Example:
+```input[type = "text"] { border: 1px solid blue;}```
 
 8. Grouping Selector
-- Example: `h1,h2,h3,h4,h5,h6,b{color:red;}`
+- Example: 
+```h1,h2,h3,h4,h5,h6,b{color:red;}```
