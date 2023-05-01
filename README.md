@@ -1,6 +1,6 @@
 
 # CSS - Cascading Style Sheet
----
+
 - CSS defines how HTML elements are to be displayed
 
 **Easy Maintenance**
@@ -9,7 +9,6 @@
 **CSS saves time**
 - write CSS once and then reuse same sheet in multiple HTML pages. You can define a style for each HTML element and apply it to as many Web pages as you want.
 
----
 
 ## CSS Syntax
 
@@ -31,8 +30,6 @@
 eg: 
 
 `h1{color:blue;}`
-
----
 
 ## CSS Selector
 
